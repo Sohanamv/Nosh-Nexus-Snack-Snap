@@ -1,3 +1,4 @@
+nosh-nexus-snack-snap.vercel.app
 video executed : https://youtu.be/8J2hwjagCus?si=qza0V3Ul6txu3d43
 Demo : nosh-nexus-snack-snap.vercel.app
 ![image](https://github.com/user-attachments/assets/a9043660-3b44-49fa-a4f4-05b8a3bcaf79)
